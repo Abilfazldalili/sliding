@@ -1,7 +1,7 @@
 # sliding
 html,css
 
-<img src="./project_img/img.png">
+<img src="./sliding/InShot_20251121_131710549.gif">
 
 
 
